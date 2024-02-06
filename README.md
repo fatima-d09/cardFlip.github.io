@@ -73,5 +73,5 @@ git push origin feature/your-feature-name
 
 <h1 id="license">License</h1>
 
-This project is licensed under the MIT License. See the <a href="">LICENSE</a> file for details.
+This project is licensed under the MIT License. See the <a href="https://github.com/fatima-d09/Card-Flip-Game/blob/main/License.txt">LICENSE</a> file for details.
 
