@@ -13,7 +13,7 @@ This is a simple card flipping game built using HTML, CSS, and JavaScript. In th
 
 <h1 id="demo">Demo</h1>
 
-You can play a live demo of the game here: <a href="" target="_blank">Card Flipping Game Demo</a>
+You can play a live demo of the game here: <a href="https://github.com/fatima-d09/card-flipping-game.git" target="_blank">Card Flipping Game Demo</a>
 
 <h1 id="ft">Features</h1>
 
@@ -29,7 +29,7 @@ To get started with the game locally on your computer, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/card-flipping-game.git
+git clone https://github.com/fatima-d09/card-flipping-game.git
 ```
 
 2. Navigate to the project folder:
