@@ -13,7 +13,7 @@ This is a simple card flipping game built using HTML, CSS, and JavaScript. In th
 
 <h1 id="demo">Demo</h1>
 
-You can play a live demo of the game here: <a href="[https://github.com/fatima-d09/card-flipping-game.git](https://fatima-d09.github.io/cardFlip.github.io/)" target="_blank">Card Flipping Game Demo</a>
+You can play a live demo of the game here: <a href="https://github.com/fatima-d09/card-flipping-game.git" target="_blank">Card Flipping Game Demo</a>
 
 <h1 id="ft">Features</h1>
 
